@@ -1,0 +1,8 @@
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoLib\bin\Debug\BWMMonicoLib.dll
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoLib\bin\Debug\BWMMonicoLib.pdb
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoLib\bin\Debug\Interop.RFCOMAPILib.dll
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoLib\obj\Debug\Interop.RFCOMAPILib.dll
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoLib\obj\Debug\BWMMonicoLib.csproj.ResolveComReference.cache
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoLib\obj\Debug\BWMMonicoLib.dll
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoLib\obj\Debug\BWMMonicoLib.pdb

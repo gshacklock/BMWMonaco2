@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Batch" targetNamespace="http://barclays.co.uk/iaw/scanning/Batch.xsd" elementFormDefault="qualified" xmlns="http://barclays.co.uk/iaw/scanning/Batch.xsd" xmlns:mstns="http://barclays.co.uk/iaw/scanning/Batch.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="BatchContainer">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="batch" type="AbstractBatch" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="AbstractBatch" abstract="true">
+		<xs:sequence>
+			<xs:element name="id" type="xs:int" />
+			<xs:element name="dateTime" type="xs:dateTime" />
+			<xs:element name="timezone" type="xs:string" />
+			<xs:element name="documents" type="Document" minOccurs="1" maxOccurs="unbounded" />
+			<xs:element name="attributes" type="Attribute" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ScanBatch">
+		<xs:complexContent>
+			<xs:extension base="AbstractBatch">
+				<xs:sequence>
+					<xs:element name="scanLocation" type="xs:string" />
+					<xs:element name="discriminator" type="xs:string" />
+					<xs:element name="userId" type="xs:string" />
+					<xs:element name="mimeTypeIdentifier" type="xs:string" />
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:complexType name="FaxBatch">
+		<xs:complexContent>
+			<xs:extension base="AbstractBatch">
+				<xs:sequence>
+					<xs:element name="sourceCli" type="xs:string" />
+					<xs:element name="destinationCli" type="xs:string" />
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:complexType name="Document">
+		<xs:sequence>
+			<xs:element name="id" type="xs:int" />
+			<xs:element name="pageCount" type="xs:int" />
+			<xs:element name="attributes" type="Attribute" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Attribute">
+		<xs:sequence>
+			<xs:element name="key" type="xs:string" />
+			<xs:element name="value" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

@@ -1,0 +1,9 @@
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoConsole\bin\Debug\BWMMonicoConsole.exe.config
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoConsole\bin\Debug\BWMMonicoConsole.exe
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoConsole\bin\Debug\BWMMonicoConsole.pdb
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoConsole\bin\Debug\BWMMonicoLib.dll
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoConsole\bin\Debug\Interop.RFCOMAPILib.dll
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoConsole\bin\Debug\BWMMonicoLib.pdb
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoConsole\obj\Debug\BWMMonicoConsole.exe
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoConsole\obj\Debug\BWMMonicoConsole.pdb

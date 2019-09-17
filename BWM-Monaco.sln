@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BWMMonacoService", "BWMMonicoService\BWMMonacoService.csproj", "{B9B5A3DC-2295-4E0D-91D0-EB8E03B7804F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BWMMonacoLib", "BWMMonicoLib\BWMMonacoLib.csproj", "{9431CC2F-8D00-479C-8B3C-F61E31D3B0AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BWMMonacoConsole", "BWMMonicoConsole\BWMMonacoConsole.csproj", "{886E2B0C-985E-4E0E-A045-8F9826510E0B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BWMMonacoSetup", "BWMMonacoSetup\BWMMonacoSetup.vdproj", "{A205A52C-6957-4449-96D4-B401E1A56BD4}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 5
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BWMMonacoSetup\\BWMMonacoSetup.vdproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = BWMMonacoSetup\\
+		SccProjectUniqueName2 = BWMMonicoConsole\\BWMMonacoConsole.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = BWMMonicoConsole\\
+		SccProjectUniqueName3 = BWMMonicoLib\\BWMMonacoLib.csproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = BWMMonicoLib\\
+		SccProjectUniqueName4 = BWMMonicoService\\BWMMonacoService.csproj
+		SccLocalPath4 = .
+		SccProjectFilePathRelativizedFromConnection4 = BWMMonicoService\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B5A3DC-2295-4E0D-91D0-EB8E03B7804F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B9B5A3DC-2295-4E0D-91D0-EB8E03B7804F}.Debug|Any CPU.Build.0 = Debug|x86
+		{B9B5A3DC-2295-4E0D-91D0-EB8E03B7804F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B5A3DC-2295-4E0D-91D0-EB8E03B7804F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9431CC2F-8D00-479C-8B3C-F61E31D3B0AE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9431CC2F-8D00-479C-8B3C-F61E31D3B0AE}.Debug|Any CPU.Build.0 = Debug|x86
+		{9431CC2F-8D00-479C-8B3C-F61E31D3B0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9431CC2F-8D00-479C-8B3C-F61E31D3B0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886E2B0C-985E-4E0E-A045-8F9826510E0B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{886E2B0C-985E-4E0E-A045-8F9826510E0B}.Debug|Any CPU.Build.0 = Debug|x86
+		{886E2B0C-985E-4E0E-A045-8F9826510E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886E2B0C-985E-4E0E-A045-8F9826510E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A205A52C-6957-4449-96D4-B401E1A56BD4}.Debug|Any CPU.ActiveCfg = Debug
+		{A205A52C-6957-4449-96D4-B401E1A56BD4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

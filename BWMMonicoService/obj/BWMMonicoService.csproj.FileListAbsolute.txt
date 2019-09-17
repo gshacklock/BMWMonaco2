@@ -1,0 +1,12 @@
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoService\bin\Debug\BWMMonicoService.exe
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoService\bin\Debug\BWMMonicoService.pdb
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoService\bin\Debug\BWMMonicoLib.dll
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoService\bin\Debug\Interop.RFCOMAPILib.dll
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoService\bin\Debug\BWMMonicoLib.pdb
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoService\obj\Debug\BWMService.ProjectInstaller.resources
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoService\obj\Debug\BWMMonicoService.Properties.Resources.resources
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoService\obj\Debug\BWMMonicoService.csproj.GenerateResource.Cache
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoService\obj\Debug\BWMMonicoService.exe
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoService\obj\Debug\BWMMonicoService.pdb
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\BWM-Monaco\BWMMonicoService\bin\Debug\BWMMonicoService.exe.config
